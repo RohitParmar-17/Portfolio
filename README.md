@@ -7,12 +7,16 @@ It features **smooth animations**, an elegant UI, and a fully responsive design.
 ## 🎥 Demo Video  
 Click the image below to watch the demo:  
 
-[![Portfolio Demo](https://drive.google.com/thumbnail?id=YOUR_VIDEO_FILE_ID)](https://drive.google.com/file/d/YOUR_VIDEO_FILE_ID/preview)  
+[![Portfolio Demo](https://drive.google.com/thumbnail?id=1xk7x7oWegW4--P0a-j9nVJlZSKbTQ4oM)](https://drive.google.com/file/d/1xk7x7oWegW4--P0a-j9nVJlZSKbTQ4oM/preview)  
 
 ## 📸 Screenshots
-<img src="screenshots/home.png" alt="Home Section" width="100%">
-<img src="screenshots/projects.png" alt="Projects Section" width="100%">
-<img src="screenshots/contact.png" alt="Contact Section" width="100%">
+<img src="https://github.com/RohitParmar-17/Portfolio/blob/main/screenshots/home1.png" alt="Home1 Section" width="100%">
+
+<img src="https://github.com/RohitParmar-17/Portfolio/blob/main/screenshots/home2.png" alt="Home1 Section" width="100%">
+
+<img src="https://github.com/RohitParmar-17/Portfolio/blob/main/screenshots/about.png" alt="Home1 Section" width="100%">
+
+<img src="https://github.com/RohitParmar-17/Portfolio/blob/main/screenshots/projects.png" alt="Home1 Section" width="100%">
 
 ## 🎨 Features
 - 🔹 **Modern UI/UX** – Aesthetic and interactive interface  
